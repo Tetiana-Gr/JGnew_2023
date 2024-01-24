@@ -1,16 +1,19 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
-
+/* 
 h1{
     color: aqua;
     font-family: 'Raleway', sans-serif;
-}
+} */
 
-#text {
+/* #text {
 color: aqua;
 }
 
 #text-1 {
     color: blueviolet;
+} */
+section {
+background-color: blueviolet;
 }
